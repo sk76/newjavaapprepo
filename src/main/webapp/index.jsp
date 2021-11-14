@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Testing     Java Web App -- Deploying on Kubernetes Cluster....</h2>
+<h2>New Version of Java Web App: V2 -- Deploying on Kubernetes Cluster....</h2>
 </body>
 </html>
